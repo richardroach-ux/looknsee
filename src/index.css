@@ -10,4 +10,8 @@ p {
   font-family: work-sans, sans-serif;
   font-weight: 400;
   font-style: normal;
+  max-width: 65ch;
+}
+.header-spacer {
+  height: 10vh;
 }

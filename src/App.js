@@ -16,7 +16,7 @@ function App() {
           {/* <p>After graduating from AUT with a Bachelor of Communication Design in 2018 I returned to study both at Whitecliffe and Yoobee, this time focusing on digital design.</p>
           <p>As a result I am comfortable across both print and digital and my work reflects the value this range of study has given me.</p> */}
           <p>I'm available for freelance work while I look for a role at a creative agency. Wink wink.<br></br><br></br>#openforwork</p>
-          <h2>Project in mind? Get in touch! 📣</h2>
+          <h2>Got your eye on me? Get in touch! 📣</h2>
                   <p>+64226472489</p>
                   <p>hello@lookandsee.design</p>
                   <br></br>

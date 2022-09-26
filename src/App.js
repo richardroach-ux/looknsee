@@ -1,4 +1,5 @@
 import { Container, Row, Col } from 'react-bootstrap';
+import GalleryObject from './Components/GalleryObject.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
 function App() {
@@ -28,9 +29,7 @@ function App() {
         </Col>
         <Col xl={7}>
           <div className='gallery-container'>
-            <div id='redBox'>
-              Display
-            </div>
+            <GalleryObject />
           </div>
           
         </Col>
@@ -38,5 +37,7 @@ function App() {
     </Container>
   );
 }
+
+
 
 export default App;

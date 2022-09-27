@@ -4,7 +4,7 @@ class GalleryObject extends React.Component {
     componentDidMount() {
         // Sets the position of the element randomly when it loads.
         // Sets the elements as javascript objects.
-        const galleryWrapper = document.getElementById("redBox");
+        const galleryWrapper = document.getElementById("image-container");
         const displayArea = document.getElementById("gallery-container");
         // Takes the height and width of the gallery element as a percentage of the proportion of the container it's displayed within.
         let percentHeight = (galleryWrapper.offsetHeight / displayArea.offsetHeight) * 100;
@@ -20,7 +20,7 @@ class GalleryObject extends React.Component {
         
     }
     render() {
-        return <div id="redBox">
+        return <div id="image-container">
             <img id="gallery-image" src=""/>
             <p id="caption">Display</p>
         </div>

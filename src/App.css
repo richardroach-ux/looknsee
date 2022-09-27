@@ -54,11 +54,18 @@ body {
     height: 100vh;
     padding: 10px 10px 0 0;
   }
-  #redBox {
-    background-color: red;
+  #image-container {
+    border: 1px solid black;
     height: auto;
-    width: 100px;
+    width: max-content;
     position: relative;
+    max-width: 50%;
+  }
+  #gallery-image {
+    width: 100px;
+  }
+  #caption {
+    margin: .5em 0 0 .5em;
   }
   
   @media (max-width: 767px) {

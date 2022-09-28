@@ -11,7 +11,7 @@ function App() {
         <h1>Coming soon... 👀</h1>
           <p>Kia Ora!</p>
           <p>My name is Richard, I'm a Communication and Web Designer based in beautiful Tāmaki Makaurau, New Zealand.
-          <br></br><br></br>Look&See is my design portfolio showcasing projects I've found rewarding, and the work behind the work.
+          <br></br><br></br>Though still under construction, Look&See is my design portfolio showcasing projects I've found rewarding, and the work behind the work.
           <br></br>It's a deep dive into my process as a designer and all the tangents and explorations that come before the finished outcomes.</p>
           <p>I believe in design driven by detail; by care, craft and collaboration.</p>
           {/* <p>After graduating from AUT with a Bachelor of Communication Design in 2018 I returned to study both at Whitecliffe and Yoobee, this time focusing on digital design.</p>

@@ -48,6 +48,12 @@ body {
     min-width: 15em;
     max-width: 20em;
   }
+  .blanklink {
+    color: black;
+  }
+  a p {
+    color: black;
+  }
   /* IDs */
   #gallery-container {
     width: 100%;

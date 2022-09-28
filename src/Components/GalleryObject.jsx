@@ -1,5 +1,4 @@
 import React from "react";
-
 class GalleryObject extends React.Component {
     componentDidMount() {
         // Sets the position of the element randomly when it loads.

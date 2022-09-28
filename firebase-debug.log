@@ -1,0 +1,44 @@
+[debug] [2022-09-28T03:03:55.819Z] ----------------------------------------------------------------------
+[debug] [2022-09-28T03:03:55.821Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\richa\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-09-28T03:03:55.821Z] CLI Version:   11.11.0
+[debug] [2022-09-28T03:03:55.821Z] Platform:      win32
+[debug] [2022-09-28T03:03:55.821Z] Node Version:  v16.15.1
+[debug] [2022-09-28T03:03:55.822Z] Time:          Wed Sep 28 2022 16:03:55 GMT+1300 (New Zealand Daylight Time)
+[debug] [2022-09-28T03:03:55.822Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-09-28T03:03:55.872Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-09-28T03:03:55.873Z] > authorizing via signed-in user (hello@lookandsee.design)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\richa\Documents\GitHub\looknsee
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-09-28T03:04:00.065Z] Using project from CLI flag: lookandseeportfolio
+[debug] [2022-09-28T03:04:00.067Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/lookandseeportfolio [none]
+[debug] [2022-09-28T03:04:00.651Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/lookandseeportfolio 200
+[debug] [2022-09-28T03:04:00.651Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/lookandseeportfolio {"projectId":"lookandseeportfolio","projectNumber":"442913148467","displayName":"LookandSeePortfolio","name":"projects/lookandseeportfolio","resources":{"hostingSite":"lookandseeportfolio"},"state":"ACTIVE","etag":"1_adf022f3-aa8e-47d5-a39c-d25b8c4c8357"}
+[info] i  Using project lookandseeportfolio (LookandSeePortfolio) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 

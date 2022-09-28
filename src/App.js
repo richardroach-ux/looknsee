@@ -23,7 +23,7 @@ function App() {
             <a href="mailto:hello@lookandsee.design" className="blanklink"><p>hello@lookandsee.design</p></a>
             <br></br>
             <div className='contact-container'>
-              <a target="_blank" noreferrer href=""><p>Resume</p></a>
+              <a target="_blank" noreferrer href="" className="blanklink"><p>Resume</p></a>
               <a href="https://www.instagram.com/_richardroach/" className="blanklink"><p>Instagram</p></a>
               <a href="https://www.behance.net/richard_rob20d" className="blanklink"><p>Behance</p></a>
             </div>
@@ -37,13 +37,13 @@ function App() {
         </Col>
         <Col className='d-block d-md-none contact-wrapper-mobile'>
             <h1>Got your eye on me? <br></br>Get in touch! 📣</h1>
-            <a href="tel:64226472489" className="blanklink"><p className="blanklink">+64226472489</p></a>
-            <a href="mailto:hello@lookandsee.design" className="blanklink"><p className="blanklink">hello@lookandsee.design</p></a>
+            <a href="tel:64226472489" className="blanklink"><p>+64226472489</p></a>
+            <a href="mailto:hello@lookandsee.design" className="blanklink"><p>hello@lookandsee.design</p></a>
             <br></br>
             <div className='contact-container-mobile'>
-              <a target="_blank" noreferrer href=""><p>Resume</p></a>
-              <a href="https://www.instagram.com/_richardroach/" className="blanklink"><p className="blanklink">Instagram</p></a>
-              <a href="https://www.behance.net/richard_rob20d" className="blanklink"><p className="blanklink">Behance</p></a>
+              <a target="_blank" noreferrer href="" className="blanklink"><p>Resume</p></a>
+              <a href="https://www.instagram.com/_richardroach/" className="blanklink"><p>Instagram</p></a>
+              <a href="https://www.behance.net/richard_rob20d" className="blanklink"><p>Behance</p></a>
             </div>
         </Col>
       </Row>
